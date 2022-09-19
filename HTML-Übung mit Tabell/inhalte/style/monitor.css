@@ -1,0 +1,60 @@
+
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 1.2em;
+    background-color: red;
+    text-align: center;
+    margin-top: auto;
+}
+
+table {
+    border: 1px solid #ff006f;
+    margin: auto;
+    border-collapse: separate;
+
+}
+
+th, td {
+    border: 1px solid #ff00dd;
+    padding-left: 1em;
+    padding-right: 1em;
+
+}
+
+tbody {
+    text-align: left;
+}
+
+a:link {
+    color: #abffff;
+    cursor: progress;
+    font-weight: normal;
+}
+
+a:visited{
+    color: #ad0000;
+    cursor: progress;
+    font-weight: normal;
+
+}
+
+a:focus {
+    color: #00ff04;
+    cursor: progress;
+    font-weight: normal;
+}
+
+a:hover {
+    color: #ffba00;
+    cursor: progress;
+    font-weight: normal;
+
+}
+
+a:active {
+    color: #ff009c;
+    cursor: progress;
+    font-weight: normal;
+
+
+}
